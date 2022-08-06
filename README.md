@@ -4,9 +4,9 @@ the model use pre-trained model and train it on the data we have.
 # how to run it
 there is two ways to use it:<br/>
 1-colab<br/>
-2-localy<br/>
+2-locally<br/>
 if you're using colab just upload the ipynb file and run it<br/>
-localy:<br/>
+locally:<br/>
 1-you have to install python 3<br/>
 2-the recommended libraries<br/>
 3-install ide and open the .py file or .ipynb<br/>
